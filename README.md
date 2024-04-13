@@ -4,6 +4,8 @@ This repository contains an AI chess Bot which was implemeted using MinMax Algor
  Built using Python-chess Library
  
  It involves two  Heuristic based optimization techniques to calculate the evaluation scores
+
+ 
       - Material Score Heurestics
       - Piece Square Table Heuristics 
       
