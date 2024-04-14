@@ -15,3 +15,5 @@ This repository contains an AI chess Bot which was implemeted using MinMax Algor
 # Piece Square Table Heuristcs
       -The individual pieces score is the sum of piece-square values of positions where the respective piece is present at that instance of the game.
       -we subract white score - black score to get total individual score
+# Google Collab file
+     Link:-https://colab.research.google.com/drive/1as1dXICnFQuuns9e-ilBqBWxDMwuVi6r?usp=sharing
